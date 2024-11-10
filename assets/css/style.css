@@ -1,0 +1,185 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  background-color: rgb(36, 36, 36);
+  font-family: Inter;
+}
+.first {
+  background-color: rgb(50, 50, 50);
+  width: 220px;
+  height: 259px;
+  border-radius: 8px;
+  margin-left: 80px;
+  margin-top: 25px;
+  display: inline-block;
+}
+.firstimg {
+  background-color: rgb(50, 50, 50);
+  margin-left: 38px;
+  margin-top: 20px;
+}
+.lexma {
+  display: flex;
+  margin-left: 57px;
+  font-family: Inter;
+  color: white;
+  background-color: rgb(50, 50, 50);
+}
+.mouse {
+  color: gray;
+  font-size: 11px;
+  background-color: rgb(50, 50, 50);
+  margin-left: 80px;
+}
+h4 {
+  font-family: Inter;
+  color: rgba(218, 0, 254, 1);
+  background-color: rgb(50, 50, 50);
+  font-size: 14px;
+  margin-left: 72px;
+  margin-top: 15px;
+}
+.ad {
+  background-color: rgb(50, 50, 50);
+  margin-left: 40px;
+  margin-top: 15px;
+}
+.add {
+  font-family: Inter;
+  color: white;
+  margin-bottom: 15px;
+  margin-left: 6px;
+  background-color: rgb(50, 50, 50);
+  font-size: 12px;
+}
+.second {
+  background-color: rgb(50, 50, 50);
+  width: 220px;
+  height: 259px;
+  border-radius: 8px;
+  margin-left: 80px;
+  margin-top: 25px;
+  display: inline-block;
+}
+.secondimgx {
+  background-color: rgb(50, 50, 50);
+  width: 170px;
+  height: 120px;
+  margin-left: 24px;
+  border-radius: 8px;
+}
+
+.thre {
+  background-color: rgb(50, 50, 50);
+  width: 220px;
+  height: 259px;
+  border-radius: 8px;
+  margin-left: 80px;
+  margin-top: 25px;
+  display: inline-block;
+}
+.threimg {
+  background-color: rgb(50, 50, 50);
+  width: 170px;
+  height: 125px;
+  border-radius: 8px;
+  margin-left: 17px;
+}
+.umi {
+  display: flex;
+}
+.four {
+  background-color: rgb(50, 50, 50);
+  border-radius: 8px;
+  margin-left: 80px;
+  margin-top: 25px;
+  width: 220px;
+height: 259px;
+}
+.fourimg {
+  background-color: rgb(50, 50, 50);
+  border-radius: 8px;
+  width: 170px;
+  height: 125px;
+  margin-left: 17px;
+}
+.five{
+background-color: rgb(50, 50, 50);
+border-radius: 8px;
+margin-left: 80px;
+margin-top: 25px;
+width: 220px;
+height: 259px;
+
+
+
+}
+.fiveimg{
+background-color: rgb(50, 50, 50);
+border-radius: 8px;
+width: 170px;
+height: 125px;
+margin-left: 17px;
+
+
+
+}
+.umi2{
+  display: flex;
+}
+.six{
+  background-color: rgb(50, 50, 50);
+  border-radius: 8px;
+  margin-left: 80px;
+  margin-top: 25px;
+  width: 220px;
+  height: 259px;
+  
+
+}
+.sev{
+  background-color: rgb(50, 50, 50);
+border-radius: 8px;
+margin-left: 80px;
+margin-top: 25px;
+width: 220px;
+height: 259px;
+
+}
+.ey{
+  background-color: rgb(50, 50, 50);
+border-radius: 8px;
+margin-left: 80px;
+margin-top: 25px;
+width: 220px;
+height: 259px;
+
+}
+.siximg{
+  background-color: rgb(50, 50, 50);
+  border-radius: 8px;
+  width: 170px;
+  height: 125px;
+ margin-left: 24px;
+
+}
+.sevimg{
+
+  background-color: rgb(50, 50, 50);
+  border-radius: 8px;
+  width: 170px;
+  height: 125px;
+ margin-left: 22px;
+
+}
+.eyimg{
+  background-color: rgb(50, 50, 50);
+  border-radius: 8px;
+  width: 70px;
+  height: 125px;
+ margin-left: 67px;
+
+}
